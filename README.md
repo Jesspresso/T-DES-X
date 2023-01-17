@@ -3,24 +3,24 @@ Our modified version of the standard Triple-DES Algorithm. The source code for o
 
 ### Contact Us:
 
-Jessica Antoinette O. Muelan - Lead Researcher
+**Jessica Antoinette O. Muelan - Lead Researcher**
 
-Batangas State University - Alangilan Campus
+**Batangas State University - Alangilan Campus**
 
 jessicaantoinette.muelan@g.batstate-u.edu.ph
 
 jamuelan@gmail.com
 
 
-Carmelo Dominic M. Dela Cruz
+**Carmelo Dominic M. Dela Cruz**
 
-Batangas State University - Alangilan Campus
+**Batangas State University - Alangilan Campus**
 
 carmelodominic.delacruz@g.batstate-u.edu.ph
 
 
-Kyle G. Dela Luna
+**Kyle G. Dela Luna**
 
-Batangas State University - Alangilan Campus
+**Batangas State University - Alangilan Campus**
 
 kyle.delaluna@g.batstate-u.edu.ph
